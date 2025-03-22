@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hello! I'm Yasmin Yaser 👋
 
-<!--
-**YasminYaser/YasminYaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me  
+I'm a computer science student passionate about **Data Science** and **Artificial Intelligence**.  
+I enjoy exploring new technologies, improving my **problem-solving skills**, and working on real-world projects.  
+Currently diving deeper into **Machine Learning** and **Data Analysis** to sharpen my skills.
+- Member of **CIS MU Team** and **CAT Reloaded**
+
+
+---
+
+## My Skills  
+- **Languages:** Python, C#, C++
+- 🧠 Machine Learning Basics (Supervised & Unsupervised)
+- 🏋️‍♀️ Data Cleaning 
+- 📊 Data Visualization (Matplotlib, Seaborn)
+- 🔍 Exploratory Data Analysis (EDA)
+- 🏆 Libraries (NumPy, Pandas, Scikit-learn)
+- **Tools:** Git, VS Code, Jupyter Notebook , kaggle
+- **Problem-Solving** – Actively working on coding challenges and algorithmic tasks.  
+
+---
+
+## Current Learning Path  
+- **Machine Learning** – Understanding algorithms and working on real-world models.  
+- **Data Analysis** – Cleaning, analyzing, and visualizing data using Python.  
+- **Tools** – Familiar with **Git**, **Visual Studio**, and **VS Code**.  
+
+---
+
+## Let's Connect!  
+Feel free to reach out if you want to chat about **AI**, **Data Science**, or any cool tech topics!  
+- 📧 [yasminyasser602@gmail.com](mailto:yasminyasser602@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yasmin-yaser-139885294)  
+
+---
+> "Always learning, always growing!" 💪
+
+
+
