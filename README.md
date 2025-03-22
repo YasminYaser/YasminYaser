@@ -29,7 +29,7 @@ Member of **CIS MU Team** and **CAT Reloaded** 🏋️‍♀️
 ## Current Learning Path  
 - **Machine Learning** – Understanding algorithms and working on real-world models.  
 - **Data Analysis** – Cleaning, analyzing, and visualizing data using Python.
-- 
+  
 ---
 
 ## Let's Connect!  
