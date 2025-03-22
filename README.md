@@ -20,8 +20,8 @@ Currently diving deeper into **Machine Learning** and **Data Analysis** to sharp
 - 📊 Data Visualization (Matplotlib, Seaborn)
 - 🔍 Exploratory Data Analysis (EDA)
 - 🏆 Libraries (NumPy, Pandas, Scikit-learn)
-- **Tools:** Git, VS Code, Jupyter Notebook , kaggle
-- **Problem-Solving** – Actively working on coding challenges and algorithmic tasks.  
+- **Tools:** Git, VS Code, Jupyter Notebook , kaggle ,Google colab.
+- **Problem-Solving**  Continuously improving through coding challenges and algorithmic problems 
 
 ---
 
