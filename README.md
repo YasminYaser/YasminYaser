@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 I'm a computer science student passionate about **Data Science** and **Artificial Intelligence**.  
 I enjoy exploring new technologies, improving my **problem-solving skills**, and working on real-world projects.  
 Currently diving deeper into **Machine Learning** and **Data Analysis** to sharpen my skills.
-- Member of **CIS MU Team** and **CAT Reloaded**
+Member of **CIS MU Team** and **CAT Reloaded** 🏋️‍♀️
 
 
 ---
