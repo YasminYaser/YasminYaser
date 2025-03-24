@@ -34,8 +34,11 @@ Member of **CIS MU Team** and **CAT Reloaded** 🏋️‍♀️
 
 ## Let's Connect!  
 Feel free to reach out if you want to chat about **AI**, **Data Science**, or any cool tech topics!  
-- 📧 [yasminyasser602@gmail.com](mailto:yasminyasser602@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yasmin-yaser-139885294)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-yaser-139885294)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasminyasser602@gmail.com)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yasmen_yaser)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yasmin_yasser)  
 
 ---
 > "Always learning, always growing!" 💪
